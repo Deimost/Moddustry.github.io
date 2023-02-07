@@ -1,0 +1,17 @@
+@font-face {
+    font-family: fontello; /* Гарнитура шрифта */
+    src: url(Files/Fonts/font.ttf); /* Путь к файлу со шрифтом */
+   }
+h1 {
+  color: #ff3c00; /* Цвет заголовка */
+  font-size: 24pt; /* Размер шрифта в пунктах */
+  font-family: fontello; /* Семейство шрифтов */
+  font-weight: normal; /* Нормальное начертание текста  */
+}
+p {
+  color: #ffffff;
+  text-align: justify; /* Выравнивание по ширине */
+  font-family: fontello; /* Семейство шрифтов */
+  font-weight: normal;
+  margin-right: 10px; /* Отступ справа в пикселах */
+}
